@@ -68,7 +68,7 @@ const App = () => {
     >
       <div className="w-full bg-slate-800 min-h-screen p-5">
         <div className="max-w-2xl mx-auto flex flex-col items-center gap-5">
-          <h1 className="text-white font-semibold text-2xl md:text-3xl py-10">
+          <h1 className="text-white font-semibold text-2xl md:text-3xl pt-10">
             Manage Your Todos
           </h1>
           <p className="text-2xl text-white">{dateTime}</p>
